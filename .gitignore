@@ -1,0 +1,121 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Virtual environment folders
+venv/
+env/
+.fvenv/
+.fenv/
+.fvenv/
+
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Data files (optional - comment these out if you want to keep them in Git)
+manual_testing.csv
+*.csv
+
+# Ignore large files (optional)
+*.zip
+*.tar.gz
+
+# Git
+.git/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+fvenv/
+venv/
+ENV/
+env/
+.fvenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# MyPy and Pyre
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# PyCharm
+.idea/
+
+# macOS and Linux system files
+.DS_Store
+*.swp
+
+# Windows
+Thumbs.db
+desktop.ini
