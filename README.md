@@ -1,8 +1,8 @@
-```
-## 📰 Fake News Detection
 
+## 📰 Fake News Detection
+'''
 This project uses machine learning and NLP to detect whether a news article is fake or real.
-```
+'''
 ## 🔍 Features
 ```
 - Preprocessing of raw text using regular expressions
